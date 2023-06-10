@@ -22,18 +22,21 @@
 
 ## Imagenes del programa
 <br>
-<br>
-<br>
 
 ### Inicio Sesion
 ![alt sss](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/InicioSesion.png)
-### Inicio Sesion
+<br>
+### Pestaña Registros de Usuarios
 ![alt text](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/registro.png)
-### Inicio Sesion
+<br>
+### Pestaña Pagos
 ![alt text](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/pago.png)
-### Inicio Sesion
+<br>
+### Pestaña Reporte Por Persona
 ![alt text](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/reportepersona.png)
-### Inicio Sesion
+<br>
+### Recibo De Pago
 ![alt text](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/recibo.png)
-### Inicio Sesion
+<br>
+### Pestaña Reporte Caja
 ![alt text](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/reportecaja.png)
