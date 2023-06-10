@@ -20,6 +20,9 @@ Instrucciones para despues de instalar:
 - Dar permisos de lectura y escritura a los archivos de las bases de datos.
 - Descargar programa de [Foxit PDF Reader](https://www.foxit.com/es-la/downloads/#Foxit-Reader/) para el funcionamiento de los recibos.
 
+
+
+
 ![alt text](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/InicioSesion.png)
 
 ![alt text](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/registro.png)
