@@ -13,14 +13,14 @@ Se desarrollo principalmente con C#, utilizando windows form para desarrollar el
 
 Para hacer funcionar el programa se necesita dar permisos de lectura y escritura a los archivos de las bases de datos una vez ya intalado el programa, ademas de que requerir el programa de Fox PDF Reader para el funcionamiento de los recibos.
 
-![alt text](https://github.com/DanielSaed/portafolio-web/blob/main/img-github/InicioSesion.jpg?raw=true)
+![alt text](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/InicioSesion.png)
 
-![alt text](https://github.com/DanielSaed/portafolio-web/blob/main/img-github/registro.jpg?raw=true)
+![alt text](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/registro.png)
 
-![alt text](https://github.com/DanielSaed/portafolio-web/blob/main/img-github/pago.jpg?raw=true)
+![alt text](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/pago.png)
 
-![alt text](https://github.com/DanielSaed/portafolio-web/blob/main/img-github/reportepersona.jpg?raw=true)
+![alt text](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/reportepersona.png)
 
-![alt text](https://github.com/DanielSaed/portafolio-web/blob/main/img-github/recibo.jpg?raw=true)
+![alt text](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/recibo.png)
 
-![alt text](https://github.com/DanielSaed/portafolio-web/blob/main/img-github/reportecaja.jpg?raw=true)
+![alt text](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/reportecaja.png)
