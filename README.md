@@ -2,7 +2,7 @@
 
 ## Proyecto desarrollado para administrador pagos de agua del poblado del "aguacate" en Tepic, Nayarit.
 
-La aplicacion permite:
+### La aplicacion permite:
 
 - Inicio de sesion.
 - Registro de usuarios por su nombre, colonia y calle ademas de tener la opcion de agregar desde que fecha debe una persona.
@@ -20,16 +20,20 @@ La aplicacion permite:
 - Dar permisos de lectura y escritura a los archivos de las bases de datos.
 - Descargar programa de [Foxit PDF Reader](https://www.foxit.com/es-la/downloads/#Foxit-Reader/) para el funcionamiento de los recibos.
 
-### Imagenes del programa
+## Imagenes del programa
+<br>
+<br>
+<br>
 
+### Inicio Sesion
 ![alt sss](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/InicioSesion.png)
-
+### Inicio Sesion
 ![alt text](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/registro.png)
-
+### Inicio Sesion
 ![alt text](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/pago.png)
-
+### Inicio Sesion
 ![alt text](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/reportepersona.png)
-
+### Inicio Sesion
 ![alt text](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/recibo.png)
-
+### Inicio Sesion
 ![alt text](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/reportecaja.png)
