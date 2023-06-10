@@ -10,17 +10,17 @@ La aplicacion permite:
 - Permite imprimir recibos en formato pdf cuando se realizan los pagos.
 - Permite realizar consultas por persona para verificar adeudos ademas de poder descargar todo el seguimiento los pagos realizados.
 
-Teconologias utilizadas:
+### Teconologias utilizadas:
 
 - C#
 - Windows Form
 - Sql
 
-Instrucciones para despues de instalar: 
+### Instrucciones para despues de instalar: 
 - Dar permisos de lectura y escritura a los archivos de las bases de datos.
 - Descargar programa de [Foxit PDF Reader](https://www.foxit.com/es-la/downloads/#Foxit-Reader/) para el funcionamiento de los recibos.
 
-
+### Imagenes del programa
 
 ![alt sss](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/InicioSesion.png)
 
