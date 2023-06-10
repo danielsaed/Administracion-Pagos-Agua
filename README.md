@@ -22,8 +22,7 @@ Instrucciones para despues de instalar:
 
 
 
-
-![alt text](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/InicioSesion.png)
+![alt sss](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/InicioSesion.png)
 
 ![alt text](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/registro.png)
 
