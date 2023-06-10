@@ -10,9 +10,15 @@ La aplicacion permite:
 - Permite imprimir recibos en formato pdf cuando se realizan los pagos.
 - Permite realizar consultas por persona para verificar adeudos ademas de poder descargar todo el seguimiento los pagos realizados.
 
-Se desarrollo principalmente con C#, utilizando windows form para desarrollar el front end. y C# para el back end asi como sql para la base de datos del programa. Algunas librerias fueron utilziadas para la creacion de pdf y archivos excel.
+Teconologias utilizadas:
 
-Para hacer funcionar el programa se necesita dar permisos de lectura y escritura a los archivos de las bases de datos una vez ya intalado el programa, ademas de que requerir el programa de Fox PDF Reader para el funcionamiento de los recibos.
+- C#
+- Windows Form
+- Sql
+
+Instrucciones para despues de instalar: 
+Dar permisos de lectura y escritura a los archivos de las bases de datos 
+Descargar programa de [Foxit PDF Reader](https://www.foxit.com/es-la/downloads/#Foxit-Reader/) para el funcionamiento de los recibos 
 
 ![alt text](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/InicioSesion.png)
 
