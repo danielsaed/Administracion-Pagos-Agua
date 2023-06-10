@@ -1,6 +1,6 @@
-#Administracion Pagos De Agua
+# Administracion Pagos De Agua
 
-##Proyecto desarrollado para administrador pagos de agua del poblado del "aguacate" en Tepic, Nayarit.
+## Proyecto desarrollado para administrador pagos de agua del poblado del "aguacate" en Tepic, Nayarit.
 
 La aplicacion permite:
 
