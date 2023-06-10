@@ -20,8 +20,7 @@
 - Dar permisos de lectura y escritura a los archivos de las bases de datos.
 - Descargar programa de [Foxit PDF Reader](https://www.foxit.com/es-la/downloads/#Foxit-Reader/) para el funcionamiento de los recibos.
 
-## Imagenes del programa
-<br>
+# Imagenes del programa
 ### Inicio Sesion
 ![alt sss](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/InicioSesion.png)
 <br>
