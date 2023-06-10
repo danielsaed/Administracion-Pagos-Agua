@@ -22,7 +22,6 @@
 
 ## Imagenes del programa
 <br>
-
 ### Inicio Sesion
 ![alt sss](https://github.com/DanielSaed/Administracion-Pagos-Agua/blob/main/img-github/InicioSesion.png)
 <br>
