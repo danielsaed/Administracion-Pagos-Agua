@@ -16,8 +16,9 @@
 - Windows Form
 - Sql
 
-### Instrucciones para despues de instalar: 
-- Dar permisos de lectura y escritura a los archivos de las bases de datos.
+### Instrucciones instalacion:
+- Descargar e instalar el programa a travez del instalador en [Releases](https://github.com/danielsaed/Administracion-Pagos-Agua/releases).
+- Dar permisos de lectura y escritura a los archivos de las bases de datos en el origen de instalacion.
 - Descargar programa de [Foxit PDF Reader](https://www.foxit.com/es-la/downloads/#Foxit-Reader/) para el funcionamiento de los recibos.
 
 # Imagenes del programa
